@@ -1,7 +1,11 @@
 Name: Siva Anjali Gurram
+
 ID: COD7264
+
 Domain: Machine Learning
+
 Mentor: Sravani gouni
+
 Description about Credit Card Fraud Detection:
 Credit card fraud detection is a vital component of financial security systems, aimed at identifying and preventing unauthorized or fraudulent transactions. Leveraging advanced technological tools and algorithms, credit card fraud detection systems analyze vast amounts of transactional data in real-time to identify patterns, anomalies, and suspicious activities. These systems employ a combination of rule-based methods, machine learning algorithms, and statistical modeling techniques to detect potential fraud swiftly and accurately.
 
